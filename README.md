@@ -1,13 +1,3 @@
-d4niell: what should be a perfect name for this project
-
-GitHub Copilot: A suitable name for this project could be "Double Skewed Gaussian Fitting". This name reflects the core functionality of the code, which is fitting data using a double skewed Gaussian function.
-
-d4niell: create me a perfect, smart and informative but sharp description for my readme.md file for this project. Make it fancy
-
-GitHub Copilot: # Double Skewed Gaussian Fitting
-
-Welcome to the **Double Skewed Gaussian Fitting** project! This repository contains a Python script designed to fit experimental data using a sophisticated double skewed Gaussian function. This approach is particularly useful for analyzing data with asymmetric peaks, providing a more accurate representation compared to traditional Gaussian fitting.
-
 ## Features
 
 - **Data Import**: Seamlessly read and process data from text files using 
