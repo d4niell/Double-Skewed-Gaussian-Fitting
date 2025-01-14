@@ -1,10 +1,8 @@
 ## Features
 
-- **Data Import**: Seamlessly read and process data from text files using 
+- **Data Import**: Seamlessly read and process data from text files using *pandas*
 
-- pandas
 
-.
 - **Statistical Analysis**: Display basic statistics of the dataset for initial insights.
 - **Custom Functions**: Define and utilize both single and double skewed Gaussian functions for fitting.
 - **Curve Fitting**: Employ 
@@ -12,10 +10,7 @@
 scipy.optimize.curve_fit
 
  to determine the optimal parameters for the double skewed Gaussian model.
-- **Visualization**: Generate informative plots with 
-
-matplotlib
-
+- **Visualization**: Generate informative plots with *matplotlib*
  to visualize the data and the fitted curve.
 
 ## Usage
