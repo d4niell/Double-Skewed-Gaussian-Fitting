@@ -2,7 +2,7 @@
 
 - **Data Import**: Seamlessly read and process data from text files using 
 
-pandas
+- pandas
 
 .
 - **Statistical Analysis**: Display basic statistics of the dataset for initial insights.
@@ -44,24 +44,10 @@ plt.show()
 ## Requirements
 
 - Python 3.x
-- 
-
-pandas
-
-
-- 
-
-matplotlib
-
-
-- 
-
-scipy
-
-
-- 
-
-numpy
+- pandas
+- matplotlib
+- scipy
+- numpy
 
 
 
